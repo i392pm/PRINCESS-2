@@ -50,7 +50,7 @@ _💫SET THIS TO TRUE IF YOU WANT TO DELETE COMMAND MESSAGES FROM USERS who don'
 
 # Deploy Easily By Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PURHSHOTTAM/PRINCESS)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PURHSHOTTAM/PRINCESS-2)
 
 
 ```
